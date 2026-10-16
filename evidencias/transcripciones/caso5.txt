@@ -1,0 +1,10 @@
+OrientadorCE: Hola. Estoy aquí para ayudarte a explorar opciones profesionales. ¿Qué te gusta?
+Usuario: me gusta el arte
+OrientadorCE: ¿Te consideras una persona creativa?
+Usuario: me interesan las finanzas
+OrientadorCE: ¿Te gusta liderar grupos?
+Usuario: me gusta la naturaleza
+OrientadorCE: ¿Te gusta organizar las cosas?
+Usuario: (Ctrl-D)
+OrientadorCE: No recibí más respuestas.
+OrientadorCE: Lo siento, con las preferencias que me diste no encontré una profesión compatible en mi base de conocimientos.

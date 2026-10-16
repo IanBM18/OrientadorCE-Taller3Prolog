@@ -1,0 +1,10 @@
+OrientadorCE: Hola. Estoy aquí para ayudarte a explorar opciones profesionales. ¿Qué te gusta?
+Usuario: la ventana esta abierta
+OrientadorCE: No entendí tu respuesta. ¿Podrías decirlo de otra forma? Por ejemplo: "Me gusta la tecnología" o "No me gusta leer".
+Usuario: me gusta la salud
+OrientadorCE: ¿Te interesa ayudar a las personas?
+Usuario: me interesa ayudar a las personas
+OrientadorCE: ¿Te gusta la biología?
+Usuario: me gusta la biologia
+OrientadorCE: Según tus preferencias, te recomiendo Medicina.
+OrientadorCE: Coincide con lo que te gusta: ciencias salud, ayudar personas, biologia.

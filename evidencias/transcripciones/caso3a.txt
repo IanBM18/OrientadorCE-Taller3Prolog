@@ -1,0 +1,8 @@
+OrientadorCE: Hola. Estoy aquí para ayudarte a explorar opciones profesionales. ¿Qué te gusta?
+Usuario: me gusta la tecnologia
+OrientadorCE: ¿Te gustan las matemáticas?
+Usuario: me gustan las matematicas
+OrientadorCE: ¿Te gusta resolver problemas?
+Usuario: me gusta resolver problemas
+OrientadorCE: Según tus preferencias, te recomiendo Ingeniería en Computadores.
+OrientadorCE: Coincide con lo que te gusta: matematicas, tecnologia, resolver problemas.

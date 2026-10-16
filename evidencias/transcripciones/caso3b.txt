@@ -1,0 +1,18 @@
+OrientadorCE: Hola. Estoy aquí para ayudarte a explorar opciones profesionales. ¿Qué te gusta?
+Usuario: no me gusta la tecnologia
+OrientadorCE: ¿Te interesa ayudar a las personas?
+Usuario: me gustan las matematicas
+OrientadorCE: ¿Te gusta dibujar?
+Usuario: me gusta resolver problemas
+OrientadorCE: ¿Te consideras una persona creativa?
+Usuario: me considero una persona creativa
+OrientadorCE: ¿Prefieres escuchar o hablar?
+Usuario: preiero hablar
+OrientadorCE: No entendí tu respuesta. ¿Podrías decirlo de otra forma? Por ejemplo: "Me gusta la tecnología" o "No me gusta leer".
+Usuario: prefiero hablar
+OrientadorCE: ¿Te gusta escribir?
+Usuario: me gusta escribir
+OrientadorCE: ¿Te gusta investigar?
+Usuario: me gusta investigar
+OrientadorCE: Según tus preferencias, te recomiendo Periodismo.
+OrientadorCE: Coincide con lo que te gusta: escribir, investigar, comunicacion.

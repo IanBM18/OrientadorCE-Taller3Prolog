@@ -1,0 +1,12 @@
+OrientadorCE: Hola. Estoy aquí para ayudarte a explorar opciones profesionales. ¿Qué te gusta?
+Usuario: no me gusta la tecnologia
+OrientadorCE: ¿Te interesa ayudar a las personas?
+Usuario: si me interesa ayudar a las personas
+OrientadorCE: ¿Prefieres escuchar o hablar?
+Usuario: prefiero escuchar
+OrientadorCE: ¿Te consideras una persona empática?
+Usuario: si
+OrientadorCE: No entendí tu respuesta. ¿Podrías decirlo de otra forma? Por ejemplo: "Me gusta la tecnología" o "No me gusta leer".
+Usuario: me considero empatico
+OrientadorCE: Según tus preferencias, te recomiendo Psicología.
+OrientadorCE: Coincide con lo que te gusta: ayudar personas, escuchar, empatia.
